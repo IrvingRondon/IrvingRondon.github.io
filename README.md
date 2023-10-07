@@ -1,11 +1,12 @@
-# Data Scientist
+# Research Scientist
+
+## Education
+- Ph.D., Physics major in Optics | National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
+- M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
+- Bachelor in Physics,  University of Carabobo  (UC) (_2015_)
 
 #### Technical Skills: Python, Mathematica,Matlab, Maple, Latex
 #### Machine & Deep learning package, data imaging processing tools, OpenCV,
-
-## Education
-- Ph.D., Physics major in Optics | National Institute of Astrophysics, Optics and Electronics (INAOE) (2016)
-- M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (2011)
 
 ## Work Experience
 
@@ -38,3 +39,13 @@ We present a general expression for the optical theorem in terms of Localized Wa
 
 ### Orbital angular momentum  due interference modes
 [Publication](https://opticaapplicata.pwr.edu.pl/files/pdf/2021/no1/optappl_5101p59.pdf) 
+
+
+### Generalized optical theorem for Rayleigh scattering approximation
+[Publication](https://opticaapplicata.pwr.edu.pl/files/pdf/2021/no1/optappl_5101p59.pdf) 
+
+### "Acoustic vortex beams in synthetic magnetic fields
+[Publication](https://iopscience.iop.org/article/10.1088/1361-648X/ab55f4) 
+
+
+
