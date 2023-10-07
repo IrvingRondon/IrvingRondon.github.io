@@ -3,10 +3,13 @@
 ## Education
 - Ph.D., Physics major in Optics,\\ National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
-- Bachelor in Physics,  University of Carabobo  (UC) (_2015_)
+- Bachelor in Physics,  University of Carabobo  (UC) (_2005_)
 
 ## Technical Skills: 
 -Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
+## Laboratory skills
+-Standard University Physics Laboratory equipment used in physics and optics.
+-Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
 
 ## Work Experience
 
@@ -21,10 +24,7 @@
 -Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019
 -Proofreading  and editing science books, guides and complementary material for high school programs.
 
-**Laboratory skills**
--Standard University Physics Laboratory equipment used in physics and optics.
 
--Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
 
 ## Projects and publications
 ### An analytical approximation to measure the extinction cross-section using: Localized Waves
