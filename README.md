@@ -1,32 +1,31 @@
 # Research Scientist
 
 ## Education
-- Ph.D., Physics major in Optics,\\ National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
+- Ph.D., Physics major in Optics, National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
-- Bachelor in Physics,  University of Carabobo  (UC) (_2005_)
+- Bachelor in Physics,  University of Carabobo (UC) (_2005_)
 
 ## Technical Skills: 
 -Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
 ## Laboratory skills
--Standard University Physics Laboratory equipment used in physics and optics.
--Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
+-Standard Physics Laboratory equipment used in physics and optics.
 
 ## Work Experience
 
--Postdoctoral Research Fellow,  Korea Institute for Advanced Study
+Postdoctoral Research Fellow,  Korea Institute for Advanced Study
 
--Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems
+Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems
 
--Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
+Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
 
--Postdoctoral Researcher,UNAM
+Postdoctoral Research Scholar ,UNAM
 
--Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019
--Proofreading  and editing science books, guides and complementary material for high school programs.
+-Assistant Editor Freelance, Proofreading  and editing science books, guides and complementary material for high school programs.
+Editorial M\'exico,
 
 
 
-## Projects and publications
+## Projects and   research publications
 ### An analytical approximation to measure the extinction cross-section using: Localized Waves
 -Journal of Physics Communications 6 015003(2022).
 [Link](https://iopscience.iop.org/article/10.1088/2399-6528/ac3ec4)
