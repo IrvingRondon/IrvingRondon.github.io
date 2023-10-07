@@ -55,7 +55,7 @@ We present a general expression for the optical theorem in terms of Localized Wa
 
 ### Electromagnetic Field Theory for Invariant Beams Using Scalar Potentials
 -Progress In Electromagnetic Research B, 66, 49–61 (2016)
-[Publication](https://www.jpier.org/pierb/pier.php?paper=15123102)
+[link](https://www.jpier.org/pierb/pier.php?paper=15123102)
 
 
 
