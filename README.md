@@ -10,20 +10,19 @@
 
 ## Work Experience
 
-*Postdoctoral Research Fellow,  Korea Institute for Advanced Study*
+-Postdoctoral Research Fellow,  Korea Institute for Advanced Study
 
-**Visiting Research Fellow, Institute for Basic Science, Physics of Complex System** 
+-Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems
 
-**Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU**
+-Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
 
-**Postdoctoral Researcher,**.
+-Postdoctoral Researcher,UNAM
 
-**Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019**
-
+-Assistant Editor Freelance, Editorial M\'exico, May 2018 - June 2019
 -Proofreading  and editing science books, guides and complementary material for high school programs.
 
 **Laboratory skills**
--Standard University Laboratory equipment used   in physics and optics.
+-Standard University Physics Laboratory equipment used in physics and optics.
 
 -Laboratory of colorimetry  (LABEC)  accredited by The  National Laboratory of  Metrology of Mexico (CENAM) 
 
