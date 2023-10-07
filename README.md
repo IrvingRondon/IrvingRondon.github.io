@@ -5,8 +5,8 @@
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
 - Bachelor in Physics,  University of Carabobo  (UC) (_2015_)
 
-#### Technical Skills: Python, Mathematica,Matlab, Maple, Latex
-#### Machine & Deep learning package, data imaging processing tools, OpenCV,
+## Technical Skills: 
+-Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
 
 ## Work Experience
 
@@ -42,10 +42,23 @@ We present a general expression for the optical theorem in terms of Localized Wa
 
 
 ### Generalized optical theorem for Rayleigh scattering approximation
-[Publication](https://opticaapplicata.pwr.edu.pl/files/pdf/2021/no1/optappl_5101p59.pdf) 
+[Publication](https://doi.org/10.1142/S0217984921501141) 
 
-### "Acoustic vortex beams in synthetic magnetic fields
+### Acoustic vortex beams in synthetic magnetic fields
 [Publication](https://iopscience.iop.org/article/10.1088/1361-648X/ab55f4) 
+
+### Properties of the Poynting vector for invariant beams: negative 	propagation in Weber beams
+[Publication](https://www.sciencedirect.com/science/article/pii/S0165212518300441)
+
+### Generalized Optical Theorem for Invariants Beams
+[Publication](https://www.sciencedirect.com/science/article/pii/S0030402617302127)
+
+### Electromagnetic Field Theory for Invariant Beams Using Scalar Potentials
+-Progress In Electromagnetic Research B, 66, 49–61 (2016)
+[Publication](https://www.jpier.org/pierb/pier.php?paper=15123102)
+
+
+
 
 
 
