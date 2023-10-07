@@ -6,9 +6,9 @@
 - Bachelor in Physics,  University of Carabobo (UC) (_2005_)
 
 ## Technical Skills: 
--Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
+Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
 ## Laboratory skills
--Standard Physics Laboratory equipment used in physics and optics.
+Standard Physics Laboratory equipment used in physics and optics.
 
 ## Work Experience
 
@@ -20,7 +20,7 @@ Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
 
 Postdoctoral Research Scholar ,UNAM
 
--Assistant Editor Freelance, Proofreading  and editing science books, guides and complementary material for high school programs.
+Assistant Editor Freelance, Proofreading  and editing science books, guides and complementary material for high school programs.
 Editorial M\'exico,
 
 
