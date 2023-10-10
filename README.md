@@ -10,18 +10,16 @@ Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing to
 Standard Physics Laboratory equipment used in physics and optics.
 
 ## Work Experience
-Visting Researcher, University of Texas at Dallas, since October 2023
+Visting Researcher, University of Texas at Dallas,Department of Mathematical Sciences, since October 2023
 
 Postdoctoral Research Fellow,  Korea Institute for Advanced Study, since April 2020
 
 Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems,
-South Korea, Oct  2018 -- Dec 2019.
+South Korea, Oct  2018--Dec 2019.
 
 Postdoctoral Researcher, National University of Mexico, Apr  2017 -- May 2018.
 
-Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
-
-Visiting Research  Scholar, NCTS, National Ting-Hua University, Taiwan}, Sep--Dec 2017
+Visiting Research  Scholar, NCTS, National Ting-Hua University, Taiwan, Sep--Dec 2017
 
 Assistant Editor Freelance, Proofreading  and editing science books, Editorial Mexico, May 2018--June 2019.
 
