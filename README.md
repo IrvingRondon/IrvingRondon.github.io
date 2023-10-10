@@ -14,7 +14,8 @@ Standard Physics Laboratory equipment used in physics and optics.
 
 Postdoctoral Research Fellow,  Korea Institute for Advanced Study
 
-Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems
+Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems,
+South Korea, Oct  2018 --- Dec 2019.
 
 Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
 
