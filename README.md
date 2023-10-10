@@ -3,7 +3,6 @@
 ## Education
 - Ph.D., Physics major in Optics, National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
-- Bachelor in Physics,  University of Carabobo (UC) (_2005_)
 
 ## Technical Skills: 
 Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
@@ -11,18 +10,22 @@ Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing to
 Standard Physics Laboratory equipment used in physics and optics.
 
 ## Work Experience
+Visting Researcher, University of Texas at Dallas, since October 2023
 
-Postdoctoral Research Fellow,  Korea Institute for Advanced Study
+Postdoctoral Research Fellow,  Korea Institute for Advanced Study, since April 2020
 
 Visiting Research Fellow, Institute for Basic Science, Physics of Complex Systems,
-South Korea, Oct  2018 --- Dec 2019.
+South Korea, Oct  2018 -- Dec 2019.
+
+Postdoctoral Researcher, National University of Mexico, Apr  2017 -- May 2018.
 
 Visiting Research  Scholar,National Center for Theoretical Sciences,NTHU
 
-Postdoctoral Research Scholar ,UNAM
+Visiting Research  Scholar, NCTS, National Ting-Hua University, Taiwan}, Sep--Dec 2017
 
-Assistant Editor Freelance, Proofreading  and editing science books, guides and complementary material for high school programs.
-Editorial M\'exico,
+Assistant Editor Freelance, Proofreading  and editing science books, Editorial Mexico, May 2018--June 2019.
+
+Research Assistant, National Institute of Astrophysics, Optics, and Electronics, Mexico	2011--2016.
 
 
 
