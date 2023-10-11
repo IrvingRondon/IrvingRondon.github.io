@@ -6,6 +6,9 @@
 - Ph.D., Physics major in Optics, National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
 
+## Research experience 
+optics, nonlinear dynamics, statistical physics in mathematical biology, topological data analysis
+
 ## Technical Skills: 
 Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
 ## Laboratory skills
