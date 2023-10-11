@@ -1,5 +1,7 @@
 # Research Scientist
 
+[Google Scholar ](https://scholar.google.com/citations?user=WnYWh7UAAAAJ&hl=en&oi=ao)
+
 ## Education
 - Ph.D., Physics major in Optics, National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
