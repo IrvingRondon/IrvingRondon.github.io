@@ -1,6 +1,9 @@
 # Irving Rondon
 
-[Google Scholar ](https://scholar.google.com/citations?user=WnYWh7UAAAAJ&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?user=WnYWh7UAAAAJ&hl=en&oi=ao)
+
+[Linkdin](www.linkedin.com/in/irondon)
+
 
 ## Education
 - Ph.D., Physics major in Optics, National Institute of Astrophysics, Optics and Electronics (INAOE) (_2016_)
