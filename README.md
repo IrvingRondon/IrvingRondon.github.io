@@ -10,10 +10,11 @@
 - M.Sc in Physics, Venezuelan Institute for Scientific Research  (IVIC) (_2011_)
 
 ## Research experience 
-optics, nonlinear dynamics, statistical physics in mathematical biology, topological data analysis
+optics,wave physics,electromagnetic simulations, data analysis, application of statistical physics in mathematical biology.
 
-## Technical Skills: 
-Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV,
+## Software skills: 
+Python, Mathematica,Matlab, Maple, Latex, ML & DL packages,imaging processing tools, OpenCV.
+
 ## Laboratory skills
 Standard Physics Laboratory equipment used in physics and optics.
 
@@ -33,15 +34,10 @@ Assistant Editor Freelance, Proofreading  and editing science books, Editorial M
 
 Research Assistant, National Institute of Astrophysics, Optics, and Electronics, Mexico	2011--2016.
 
-
-
-## Projects and   research publications
+## Projects and   research publications in Optics
 ### An analytical approximation to measure the extinction cross-section using: Localized Waves
 -Journal of Physics Communications 6 015003(2022).
 [Link](https://iopscience.iop.org/article/10.1088/2399-6528/ac3ec4)
-
-We present a general expression for the optical theorem in terms of Localized Waves. This representation is well-known and commonly used to generate Frozen waves, Xwaves, and other propagation invariant beams. We analyze several examples using different input beam sources on a circular detector to measure the extinction cross-section.
-
 
 ### Acoustic spin and  orbital angular momentum  using  evanescent Bessel beams
 -Journal of Physics Communications,  5, 8 085015 (2021).
@@ -50,7 +46,6 @@ We present a general expression for the optical theorem in terms of Localized Wa
 ### Orbital angular momentum  due interference modes
 -Optica Applicata  vol 51,1 (2021).
 [Link](https://opticaapplicata.pwr.edu.pl/files/pdf/2021/no1/optappl_5101p59.pdf) 
-
 
 ### Generalized optical theorem for Rayleigh scattering approximation
 -Modern Physics Letters B Vol. 35, No. 06, 2150114 (2021).
@@ -73,7 +68,11 @@ We present a general expression for the optical theorem in terms of Localized Wa
 [Link](https://www.jpier.org/pierb/pier.php?paper=15123102)
 
 
+## Projects and publications in Data Science
 
 
+
+
+## Projects and publications in Statistical Physics
 
 
